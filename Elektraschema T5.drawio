@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T21:15:30.488Z" agent="5.0 (iPad; CPU OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.59 Mobile/15E148 Safari/604.1" etag="igblnBj57sjyEvzOnwHA" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T14:41:35.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="Xm6OF5k5FzzaAaYz_5bS" version="16.5.2" type="github">
   <diagram id="AKhQNKMOVLfTBlIXiXV_" name="Page-1">
-    <mxGraphModel dx="331" dy="1357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,8 +296,84 @@
         <mxCell id="n5P5nD674G19Qfx5sYHf-35" value="1.1m" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="400" y="402.5" width="25" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="8n_FvsMHJOkO5RUDTEl0-1" value="1.1m" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="8n_FvsMHJOkO5RUDTEl0-1" value="1.1m" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="475" y="412.5" width="25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZesS7n-96SI2nkyZvq3-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Electrical_plug_plug_plug_connector_plug_in_power_plug_2-128.png" vertex="1" parent="1">
+          <mxGeometry x="11" y="90" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZesS7n-96SI2nkyZvq3-3" value="" style="endArrow=none;html=1;rounded=0;fillColor=#0050ef;strokeColor=#001DBC;entryX=0.623;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3ZesS7n-96SI2nkyZvq3-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="69" y="118.83" as="sourcePoint" />
+            <mxPoint x="190" y="118.88" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="202" y="119" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZesS7n-96SI2nkyZvq3-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="69.00000000000011" y="129" as="sourcePoint" />
+            <mxPoint x="180" y="129" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZesS7n-96SI2nkyZvq3-5" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3ZesS7n-96SI2nkyZvq3-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70.00000000000011" y="129" as="sourcePoint" />
+            <mxPoint x="190" y="129" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZesS7n-96SI2nkyZvq3-6" value="" style="endArrow=none;html=1;rounded=0;fillColor=#e3c800;strokeColor=#B09500;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3ZesS7n-96SI2nkyZvq3-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="139.91000000000005" as="sourcePoint" />
+            <mxPoint x="191" y="139.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="140" />
+              <mxPoint x="120" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZesS7n-96SI2nkyZvq3-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/outlet-128.png" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZesS7n-96SI2nkyZvq3-8" value="Aardlekautomaat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="148" width="100" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZesS7n-96SI2nkyZvq3-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;entryX=0.447;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3ZesS7n-96SI2nkyZvq3-7" target="3ZesS7n-96SI2nkyZvq3-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80.00000000000011" y="139" as="sourcePoint" />
+            <mxPoint x="200" y="158" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="200" />
+              <mxPoint x="185" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZesS7n-96SI2nkyZvq3-10" value="" style="endArrow=none;html=1;rounded=0;fillColor=#0050ef;strokeColor=#001DBC;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.597;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3ZesS7n-96SI2nkyZvq3-8" target="3ZesS7n-96SI2nkyZvq3-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79" y="128.82999999999993" as="sourcePoint" />
+            <mxPoint x="212.30000000000007" y="157.68000000000006" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="210" />
+              <mxPoint x="140" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZesS7n-96SI2nkyZvq3-13" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="aOWdTS7RIFluIR1UwhIq-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="240" as="sourcePoint" />
+            <mxPoint x="280" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="240" />
+              <mxPoint x="260" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZesS7n-96SI2nkyZvq3-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Electrical_plug_plug_plug_connector_plug_in_power_plug_2-128.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="211" width="58" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
